@@ -1,0 +1,41 @@
+.for_box{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    align-items: center;
+}
+.box{
+    width: 600px;
+    
+    color: rgb(63, 101, 102);
+    font-size: 32px;
+    
+}
+.author_id{
+    display: flex;
+    justify-content: space-between;
+}
+.name_date{
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    color: rgb(63, 101, 102);
+    font-size: 32px;
+}
+.date{
+    color: rgba(63, 101, 102, 0.845);
+    font-size: 14px;
+}
+.author{
+    color: rgb(63, 101, 102);
+    font-size: 20px;
+}
+.id{
+    color: rgb(63, 101, 102);
+    font-size: 16px;
+}
+.text{
+    color: rgb(63, 101, 102);
+    font-size: 18px;
+}
